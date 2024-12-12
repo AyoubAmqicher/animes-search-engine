@@ -1,3 +1,6 @@
 [submodule "front_anime_app"]
 	path = front_anime_app
 	url = https://github.com/Enami-FatimaZahrae/searchEngineForAnime-front
+[submodule "back_anime_app"]
+	path = back_anime_app
+	url = https://github.com/Khadija-Laamiri/searchEngineForAnime-api
