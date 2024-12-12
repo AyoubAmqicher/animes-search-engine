@@ -1,0 +1,3 @@
+[submodule "front_anime_app"]
+	path = front_anime_app
+	url = https://github.com/Enami-FatimaZahrae/searchEngineForAnime-front
